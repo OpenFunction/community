@@ -22,7 +22,7 @@ OpenFunction is sponsored and open-sourced by the [KubeSphere](http://kubesphere
 
 Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. All are welcome!
 
-The next upcoming community meeting are pinned as issues in this repository and can be used to enter in suggestions for the meeting. If you would like to talk about suggestions first use the Discord Community Call Chat channel to discuss. The meeting agenda is finalized by a community call host.
+The next upcoming community meeting are pinned as discussions in this repository and can be used to enter in suggestions for the meeting. If you would like to talk about suggestions first use the Discord Community Call Chat channel to discuss. The meeting agenda is finalized by a community call host.
 
 | Asset | Link        |
 |:-----------|:------------|
