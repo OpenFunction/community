@@ -30,4 +30,4 @@ The current membership of the committee is currently (listed alphabetically by f
 
 ## Meetings
 
-The OpenFunction technical committee meets bi-weekly in Tuesday afternoon (after OpenFunction Community meeting, can be open or closed). The [meeting notes](https://docs.google.com/document/d/1bh5-kVPegjNlIjjq_e37mS3ZhyXWhmmUaysFgeI9_-o/) are open to public.
+The OpenFunction technical committee meets bi-weekly in Thursday afternoon (after OpenFunction Community meeting, can be open or closed). The [meeting notes](https://docs.google.com/document/d/1bh5-kVPegjNlIjjq_e37mS3ZhyXWhmmUaysFgeI9_-o/) are open to public.
