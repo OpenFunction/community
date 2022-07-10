@@ -10,28 +10,35 @@ Welcome to the OpenFunction community. This is the starting point for becoming a
 
 We want your contributions and suggestions! One of the easiest ways to contribute is to participate in discussions, chat on IM or join the bi-weekly community calls.
 
-### Questions and issues
+### Contact Us
 
-OpenFunction is sponsored and open-sourced by the [KubeSphere](http://kubesphere.io/) Team and maintained by the OpenFunction community. Reach out with any questions you may have and we'll make sure to answer them as soon as possible and as a community member feel free to jump in and answer questions.
+OpenFunction is sponsored and open-sourced by the [KubeSphere](http://kubesphere.io/) Team and maintained by the OpenFunction community. Reach out with any questions you may have and we'll make sure to answer them as soon as possible, and as a community member feel free to jump in and answer questions.
 
 - Discord: https://discord.gg/hG3yc6uAyC
 - Slack: Create an account at [#CNCF Slack](https://slack.cncf.io/) and then search `#openfunction` to join or click [#openfunction](https://cloud-native.slack.com/archives/C03ETDMD3LZ) to join if you already have an [#CNCF Slack](https://slack.cncf.io/) account.
 - Wechat: join the OpenFunction user group by following the `kubesphere` WeChat subscription and then reply `openfunction`
 
-### [Community meetings](https://github.com/OpenFunction/community/discussions)
+### [Community call](https://github.com/OpenFunction/community/discussions)
 
 Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. All are welcome!
 
-The next upcoming community meeting are pinned as discussions in this repository and can be used to enter in suggestions for the meeting. If you would like to talk about suggestions first use the Discord Community Call Chat channel to discuss. The meeting agenda is finalized by a community call host.
+The next upcoming community meeting is pinned as discussions in this repository and can be used to provide feedback or proposals. You can also use the Discord `Community` channel to discuss. The meeting agenda will be finalized by the community call host.
 
-| Asset | Link        |
+| Asset | Link |
 |:-----------|:------------|
 | 🔗 Meeting Link | **Tecent Meeting:** https://meeting.tencent.com/dm/HMec1CjT8F2i
 | 📝 Meeting Notes | https://docs.google.com/document/d/1bh5-kVPegjNlIjjq_e37mS3ZhyXWhmmUaysFgeI9_-o/edit#
 | 🎥 Meeting Recordings | https://space.bilibili.com/438908638/channel/seriesdetail?sid=495452
-| ⏰ Meeting Time | 15:00-16:00(GMT+08:00), Thursday every two weeks starting from March 17th, 2022
+| ⏰ Meeting Time | 15:00-16:00(GMT+08:00), Thursday every two weeks. You can find the agenda [here](https://kubesphere.io/contribution/)
 
-OpenFunction team has presented OpenFunction project in some community events including [CNCF TAG-runtime meeting](https://youtu.be/qDH_LbagrVA?t=821), [Dapr community meeting](https://youtu.be/S9e3ol7JCDA?t=183), and [OpenFunction community call](https://space.bilibili.com/438908638/channel/seriesdetail?sid=495452). You can watch the recording videos and ask us anything.
+### Events
+
+OpenFunction community members have presented OpenFunction in a few community events:
+
+- [CNCF TAG-runtime meeting](https://youtu.be/qDH_LbagrVA?t=821)
+- [Dapr community meeting](https://youtu.be/S9e3ol7JCDA?t=183)
+- [Cloud Native FaaS observability powered by Apache SkyWalking](https://mp.weixin.qq.com/s/gi-oKpN8QzIDVBFntovQiQ)
+- [Empower Autonomous Driving with Cloud Native Serverless Technologies](https://www.youtube.com/watch?v=gPee28M04R8&list=PLj6h78yzYM2MCEgkd8zH0vJWF7jdQ-GRR&index=27), KubeCon EU 2022
 
 ## Credits
 
