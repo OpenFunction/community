@@ -1,5 +1,3 @@
-# OpenFunction Community
-
 Welcome to the OpenFunction community. This is the starting point for becoming a contributor, improving the code and docs, giving presentations and all the goodness of helping out on the project. We are a friendly, collaborative group and look forward to working together.
 
 ## Introduction
