@@ -33,11 +33,14 @@ The next upcoming community meeting is pinned as discussions in this repository 
 
 OpenFunction community members have presented OpenFunction in a few community events:
 
-- [CNCF TAG-runtime meeting](https://youtu.be/qDH_LbagrVA?t=821)
-- [Dapr community meeting](https://youtu.be/S9e3ol7JCDA?t=183)
-- [Cloud Native FaaS observability powered by Apache SkyWalking](https://mp.weixin.qq.com/s/gi-oKpN8QzIDVBFntovQiQ)
-- [Empower Autonomous Driving with Cloud Native Serverless Technologies](https://www.youtube.com/watch?v=gPee28M04R8&list=PLj6h78yzYM2MCEgkd8zH0vJWF7jdQ-GRR&index=27), KubeCon EU 2022
-
+| Date | Event Link |
+|:-----------|:------------|
+| Jun 11, 2022 | [Open Source Cloud Native Day](https://cn.dapr.io/event/202206-cloud-native-day/) |
+| May 18, 2022 | [Empower Autonomous Driving with Cloud Native Serverless Technologies](https://www.youtube.com/watch?v=gPee28M04R8&list=PLj6h78yzYM2MCEgkd8zH0vJWF7jdQ-GRR&index=27), KubeCon EU 2022 |
+| May 10, 2022 | [Cloud Native FaaS Observability Powered by Apache SkyWalking](https://mp.weixin.qq.com/s/gi-oKpN8QzIDVBFntovQiQ) |
+| Apr 21, 2022 | [CNCF TAG-Runtime Presentation](https://youtu.be/qDH_LbagrVA?t=821) |
+| Mar 23, 2022 | [Dapr Community Call 57](https://youtu.be/S9e3ol7JCDA?t=183) |
+ 
 ## Credits
 
-+ [dapr/community](https://github.com/dapr/community)
+- [dapr/community](https://github.com/dapr/community)
