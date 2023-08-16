@@ -24,10 +24,10 @@ The next upcoming community meeting is pinned as discussions in this repository 
 
 | Asset | Link |
 |:-----------|:------------|
-| 🔗 Meeting Link | **Tecent Meeting:** https://meeting.tencent.com/dm/HMec1CjT8F2i
-| 📝 Meeting Notes | https://docs.google.com/document/d/1bh5-kVPegjNlIjjq_e37mS3ZhyXWhmmUaysFgeI9_-o/edit#
+| 🔗 Meeting Link | **Tecent Meeting:** https://meeting.tencent.com/dm/iPfX9HuztmjA or Meetng Number: 633-2160-7939
+| 📝 Meeting Notes | https://github.com/OpenFunction/community/discussions
 | 🎥 Meeting Recordings | https://space.bilibili.com/438908638/channel/seriesdetail?sid=495452
-| ⏰ Meeting Time | 15:00-16:00(GMT+08:00), Thursday every two weeks. You can find the agenda [here](https://kubesphere.io/contribution/)
+| ⏰ Meeting Time | 20:00-21:00(GMT+08:00), Thursday every two weeks. You can find the agenda [here](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWtxaWpzZ3EzcGxhNGJyazBnNmRzcnRycG5fMjAyMzA4MTdUMTIwMDAwWiBodW9iaW5namllQG0&tmsrc=huobingjie%40gmail.com&scp=ALL)
 
 ### Events
 
